@@ -1,0 +1,14 @@
+{
+  "name": "MJ IA",
+  "symbol": "MJAI",
+  "description": "Memecoin independiente inspirada en el Moonwalk, la cultura meme y la inteligencia artificial. Sin utilidad: solo meme y comunidad.",
+  "image": "https://raw.githubusercontent.com/nazaret071523/mjai-token/main/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nazaret071523/mjai-token/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
